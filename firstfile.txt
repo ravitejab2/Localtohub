@@ -1,2 +1,2 @@
-hello welcome 
+hello welcome to github training 
 this is first text file in the new repository
